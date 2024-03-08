@@ -49,5 +49,3 @@ You can customize the content and appearance of the website by modifying the fil
 For any inquiries or feedback, please contact [yogendrabhammarkar55@gmail.com].
 
 ```
-
-Remember to replace placeholders such as `[demo-link](insert-demo-link-here)`, `[your-username]`, and `[your-email@example.com]` with the appropriate information. Customize the sections, add or remove features as needed, and make the README reflect the specifics of your Parallax-Website project.
